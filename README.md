@@ -22,8 +22,9 @@ Analyze phishing email samples, identify phishing indicators, classify email ris
 - Subject: Payment Reminder
 - Classification: SUSPICIOUS
 
-### Sample 3
-- Classification: PHISHING (To be Added)
+Sample 3
+Subject: Phishing Email Sample
+Classification: PHISHING
 
 ## Repository Structure
 
